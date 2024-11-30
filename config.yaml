@@ -1,0 +1,9 @@
+generatorName: go
+packageName: client
+packageVersion: 1.0.0
+gitHost: github.com
+gitUserId: kebroad
+gitRepoId: schwab-accounts-and-trading-production-go
+additionalProperties:
+  useOneOfDiscriminatorLookup: true
+  enumClassPrefix: true
